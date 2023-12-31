@@ -1,0 +1,26 @@
+{
+    // "python.pythonPath": "C:\\Users\\Dnsa Assad\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cSpell.words": [
+        "cstet",
+        "ctest",
+        "fout",
+        "Kruskal",
+        "marray",
+        "msearch",
+        "msort",
+        "mysort",
+        "piirad"
+    ],
+    "files.associations": {
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "queue": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    }
+}
